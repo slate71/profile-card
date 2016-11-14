@@ -1,6 +1,6 @@
-# Project Assignment 3: Profiles.ModernDeveloper Sidebar profile card
+# A Sidebar Profile Card
 
-My profile card should have:
+The profile card should have:
 
 - 1-3 photo(s) of me
 - A paragraph containing 3-5 sentences about me
